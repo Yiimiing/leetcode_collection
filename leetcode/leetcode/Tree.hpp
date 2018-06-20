@@ -27,3 +27,9 @@ void maxDepth_search(TreeNode* root,int temp,int&ans); //109 max depth of binary
 void flatten(TreeNode* root);
 void flatten_helper(TreeNode* root,vector<TreeNode*> &ans);//114, flatten BT to linkedlist
 #endif /* Tree_hpp */
+flatten branch
+pull of some leaves
+Dunno what TreeNode is 
+flatten Tree
+Do not cut Tree
+#endif /* qunzhuable */
