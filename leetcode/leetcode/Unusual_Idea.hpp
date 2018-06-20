@@ -17,3 +17,4 @@ using namespace std;
 
 int singleNumber(vector<int>& nums);//136,single number, easy, bitwise manipulation
 #endif /* Unusual_Idea_hpp */
+#veryqunzhuable
